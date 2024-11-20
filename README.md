@@ -10,6 +10,10 @@ Currently, two official plugins are available:
 
 ## Background Changer Application
 
+**Project Name: Background Changer Application**
+
+**Description:**
+
 --> The Background Changer Application is a visually engaging React-based web application designed to allow users to change the background color of the interface dynamically. The application consists of 11 color buttons, each labeled with a specific color name, positioned at the bottom of the screen.
 
 **Features:**
@@ -26,3 +30,6 @@ Users can instantly change the background color of the application by clicking o
 *->* The app features a clean and minimalistic layout, with vibrant colors for better user engagement.
 
 This application can be a fun and simple tool to demonstrate React state management and event handling while also serving as an example of interactive UI design.
+
+Screenshot of the Application:
+<img src="./public/sreenshot/Screenshot 2024-11-20 at 3.22.50 PM.png" alt="" srcset="">
